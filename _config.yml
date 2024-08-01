@@ -1,8 +1,8 @@
-title: Stack Problems
+title: /Home
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+author: Jeremy Palmer
+github: https://github.com/xenenon
+about: I'm a cybersecurity student. 
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -17,14 +17,14 @@ collections:
 social:
     - icon: fa-facebook
       link: "#"
-    - icon: fa-twitter
-      link: "#"
+    - icon: fa-mastodon
+      link: "https://infosec.exchange/@xenenon"
     - icon: fa-linkedin
-      link: "#"
+      link: "https://linkedin.com/in/jeremyadampalmer"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/xenenon"
 
 share:
   twitter_username: github.io
@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://xenenon.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
