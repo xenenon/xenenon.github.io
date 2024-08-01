@@ -1,13 +1,13 @@
-title: /Home
-description: My Personal Stack Problems
+title: /home
+description: My Personal website and space on the web.
 author: Jeremy Adam Palmer
 github: https://github.com/xenenon
 about: I'm a cybersecurity student. 
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+disqus_shortname:
+google_analytics: 
 
 enableTags: true
-tagarray: []
+tagarray: [blog]
 
 collections:
   project:
@@ -15,25 +15,19 @@ collections:
     permalink: /project/:path/
 
 social:
-    - #icon: fa-facebook
-      link: "#"
-    - icon: fa-mastodon
-      link: "https://infosec.exchange/@xenenon"
     - icon: fa-linkedin
       link: "https://linkedin.com/in/jeremyadampalmer"
-    - #icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
       link: "https://github.com/xenenon"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username: 
+  fb_appid: 
 
 urls:
-    - text: About Me
+    - text: About
       url: /about/
-    - text: My Projects
+    - text: Projects
       url: /projects/
     - text: XML Feed
       url: /feed.xml
