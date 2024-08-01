@@ -1,6 +1,6 @@
 title: /Home
 description: My Personal Stack Problems
-author: Jeremy Palmer
+author: Jeremy Adam Palmer
 github: https://github.com/xenenon
 about: I'm a cybersecurity student. 
 disqus_shortname: stackproblems
@@ -15,13 +15,13 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
+    - #icon: fa-facebook
       link: "#"
     - icon: fa-mastodon
       link: "https://infosec.exchange/@xenenon"
     - icon: fa-linkedin
       link: "https://linkedin.com/in/jeremyadampalmer"
-    - icon: fa-stack-exchange
+    - #icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
       link: "https://github.com/xenenon"
