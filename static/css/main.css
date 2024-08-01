@@ -4,14 +4,14 @@ body {
   line-height: 1.5em;
   font-weight: 300;
   font-size: 16px;
-  color: #666;
+  color: #212121;
 }
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #F7F1F1;
-  border-bottom: 1px solid #fff;
+  border-top: 1px solid #FF6F00;
+  border-bottom: 1px solid #ffffff;
 }
 span.time, span.categories {
   color: #ADADAD;
@@ -20,7 +20,7 @@ span.time, span.categories {
   text-transform: uppercase;
 }
 h1, h2, h3 {
-  color: #696969;
+  color: #212121;
   font-weight: normal;
 }
 h1 {
@@ -32,16 +32,16 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #3fa757;
+  color: #FF6F00;
 }
 a:hover {
-  color: #B3B3B3;
+  color: #FFC107;
   text-decoration: underline;
 }
 
 /* Layout */
 .main-layout {
-  background: #fff;
+  background: #ffffff;
 }
 .sidebar-nav {
   margin: 0;
@@ -54,6 +54,7 @@ a:hover {
 .sidebar-nav li::before {
   content: "»";
   margin-right: .5em;
+  color: #FF6F00
 }
 
 /* Content */
@@ -68,13 +69,13 @@ div.content pre {
 }
 
 footer {
-  border-top: 1px solid #F7F1F1;
+  border-top: 1px solid #FF6F00;
   width: 100%;
   height: 10px;
   margin-top: 10px;
   margin-bottom: 3em;
   padding-top: 10px;
-  color: #C2C2C2;
+  color: #ADADAD;
   font-size: 11px;
   bottom: 0;
   padding-bottom: 10px;
@@ -87,7 +88,7 @@ div.post-content .btn-tags {
 div.col-sm-3 {
   margin-top: 100px;
   font-size: 11px;
-  color: #666;
+  color: #212121;
 }
 div.col-sm-3 strong {
   font-size: 16px;
@@ -135,16 +136,16 @@ div.col-sm-3 div.profile-about {
 }
 .social li a {
   font-size: 16px;
-  color: #969394;
+  color: #ADADAD;
 }
 .social li a:hover {
-  color: #6D6D6D;
+  color: #212121;
 }
 
 .share-page {
   padding: 10px 10px 5px;
-  border-top: 1px solid #f0f0f0;
-  border-bottom: 1px solid #f0f0f0;
+  border-top: 1px solid #FF6F00;
+  border-bottom: 1px solid #FF6F00;
 }
 .post-content img,
 .content img {
