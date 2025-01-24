@@ -5,6 +5,8 @@ entries:
   - title: /about
     url: about
   
+  - title: /now
+    url: now
   - title: all posts
     post_list:
       limit: 5
@@ -12,7 +14,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: posts by category (wip)
     post_list:
       category: example2
       show_more: true
@@ -22,11 +24,4 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
             
