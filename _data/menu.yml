@@ -3,7 +3,7 @@
 
 entries:
   - title: /about
-  - url: about
+    url: about
   
   - title: all posts
     post_list:
