@@ -47,4 +47,5 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 - Severance S2
 - Anthony Bourdaines No Reservations
+- The Wheel of Time
 

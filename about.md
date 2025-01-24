@@ -7,7 +7,8 @@ Welcome to my website. This is my personal blog/indiewebsite/presence for myself
 
 # $whoami
 
-My name is Jeremy Palmer and I am a cybersecurity undergrad. I am half way done with my degree and plan on getting multiple different certifications. I currently hold the ISC2 Certified in Cybersecurity cert. I like to travel and experience different cultures and food. Tech | Apple | Cybersecurity | Infosec | Jedi | SciFi | Fitness | Coffee | Gamer | Michigan | Nerd | Nature | Lifelong Learner
+My name is Jeremy Palmer and I am a cybersecurity undergrad. I am half way done with my degree and plan on getting multiple different certifications. I currently hold the ISC2 Certified in Cybersecurity cert. I like to travel and experience different cultures and food. 
+| Tech | Apple | Cybersecurity | Infosec | Jedi | SciFi | Fitness | Coffee | Gamer | Michigan | Nerd | Nature | Lifelong Learner
 
 # $nslookup
 
