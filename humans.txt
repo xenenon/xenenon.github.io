@@ -1,6 +1,6 @@
 /* TEAM */
 Creator: Jeremy Adam Palmer
-Site: xenenon.github.io
+Site: jeremyadampalmer.com
 Mastodon: @xenenon@infosec.exchange
 Bluesky: @xenenon.bsky.social
 From: Pure Michigan
@@ -13,3 +13,5 @@ Inspiration: https://riggraz.dev/no-style-please/ (Theme)
 Founded: Jan, 2025
 IDE: VS Code
 Hosting: Github Pages + Jekyll
+DNS: DNSimple
+
