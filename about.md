@@ -17,6 +17,7 @@ For those looking to connect infosec based is best on mastodon then bluesky for 
 - Mastodon [@xenenon@infosec.exhange](https://infosec.exchange/@xenenon)
 - PixelFed [@xenenon@pixel.infosec.exchange](https://pixel.infosec.exchange/i/web/profile/599360417341945808)
 - BlueSky [@xenenon.bsky.social](https://bsky.app/profile/xenenon.bsky.social)
+- Fedia [@Xenenon@fedia.io](https://fedia.io/u/Xenenon)
 - Signal xenenon.420
 - LinkedIn [Jeremy Palmer](https://www.linkedin.com/in/jeremyadampalmer/)
 
