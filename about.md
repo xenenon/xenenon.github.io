@@ -13,12 +13,12 @@ My name is Jeremy Palmer and I am a cybersecurity undergrad. I am half way done 
 # $nslookup
 
 For those looking to connect infosec based is best on mastodon then bluesky for other socials followed by Signal for important queries.
-- Email [jeremyadampalmer@gmail.com](mailto:jeremyadampalmer@gmail.com)
-- Mastodon [@xenenon@infosec.exhange](https://infosec.exchange/@xenenon)
-- PixelFed [@xenenon@pixel.infosec.exchange](https://pixel.infosec.exchange/i/web/profile/599360417341945808)
-- BlueSky [@xenenon.bsky.social](https://bsky.app/profile/xenenon.bsky.social)
-- Fedia [@Xenenon@fedia.io](https://fedia.io/u/Xenenon)
-- Infosec.pub [@xenenon420@infosec.pub](https://infosec.pub/u/xenenon420)
+- Email [jeremyadampalmer@gmail.com](mailto:jeremyadampalmer@gmail.com){:rel="me"}
+- Mastodon [@xenenon@infosec.exhange](https://infosec.exchange/@xenenon){:rel="me"}
+- PixelFed [@xenenon@pixel.infosec.exchange](https://pixel.infosec.exchange/i/web/profile/599360417341945808){:rel="me"}
+- BlueSky [@xenenon.bsky.social](https://bsky.app/profile/xenenon.bsky.social){:rel="me"}
+- Fedia [@Xenenon@fedia.io](https://fedia.io/u/Xenenon){:rel="me"}
+- Infosec.pub [@xenenon420@infosec.pub](https://infosec.pub/u/xenenon420){:rel="me"}
 - Signal xenenon.420
-- LinkedIn [Jeremy Palmer](https://www.linkedin.com/in/jeremyadampalmer/)
+- LinkedIn [Jeremy Palmer](https://www.linkedin.com/in/jeremyadampalmer/){:rel="me"}
 
