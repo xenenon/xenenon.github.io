@@ -8,7 +8,7 @@ From: Pure Michigan
 /* THANKS */
 Inspiration: https://shellsharks.com 
 Inspiration: https://riggraz.dev/no-style-please/ (Theme)
-
+Inspiration: https://coryd.dev
 /* SITE */
 Founded: Jan, 2025
 IDE: VS Code
