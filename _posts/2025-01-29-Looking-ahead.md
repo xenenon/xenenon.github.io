@@ -5,15 +5,7 @@ category: blog
 
 # 2025: A Roadmap of Sorts
 
-I wanted to state some sort of a plan for my site this year and give myself some SMART goals to try and accomplish both for the site and in life. I'm hoping this can be a fun way to start the year off positively and then next year look back and see if I accomplished what I wanted or if I made unrealistic goals. Not all of the goals will be SMART goals because some I want to be longer term and I feel SMART Goals work best for a shorter term.
-
-## SMART
-
-- Specific
-- Measurable
-- Achievable
-- Relevant
-- Time-bound
+I wanted to state some sort of a plan for my site this year and give myself some goals to try and accomplish both for the site and in life. I'm hoping this can be a fun way to start the year off positively and then next year look back and see if I accomplished what I wanted or if I made unrealistic goals.
 
 ## 2025 Goals
 
