@@ -39,4 +39,6 @@ Data privacy and security can be done with a couple simple actions if this check
 - Use MFA everywhere possible and if you can use an authenticator application as SMS and Email codes can be intercepted and spoofed.
 - Update devices regularly.
 - Recognize Phishing attempts and report them.
+
+
 Stay safe out there on the web and feel free to give me some feedback on Mastodon [@xenenon@infosec.exchange](https://infosec.exchange/@xenenon)
