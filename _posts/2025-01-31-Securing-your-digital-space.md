@@ -7,7 +7,7 @@ category: blog
 
 I recently discovered Data Privacy Week and, as a budding security researcher and student, I thought this would be a great opportunity for my first write-up. Most people don’t think about their data privacy or how they’re tracked online every day. There are plenty of jokes about Chinese spies on TikTok or Facebook seemingly reading minds for ad targeting, but few people take their digital privacy seriously.
 
-With that in mind, I want to raise awareness about a tool that has helped me become more conscious of my own data security: the [Personal Security Checklist](https://digital-defense.io). This guide is an excellent resource for securing your digital life and protecting your privacy.
+With that in mind, I want to raise awareness about a tool that has helped me become more conscious of my own data security: the [Personal Security Checklist](https://digital-defense.io). This interactive guide is an excellent resource for securing your digital life and protecting your privacy.
 
 ## The Tool
 Digital Defense is structured into multiple categories, each with its own checklist to help users improve their security:
@@ -28,4 +28,15 @@ Each checklist is further divided into three priority levels: Basic, Optional, a
 
 ## My Progress
 
-![Digital Privacy Guide Screenshot](DigitalPrivacyGuideScreenshot.png)
+![Digital Privacy Guide Screenshot](assets/png/Digital_Privacy_Guide_Screenshot.png)
+
+As you can see I have completed 85 out of the 255 items in the guide. 
+
+## Aditional Best Practices
+
+Data privacy and security can be done with a couple simple actions if this checklist is too overwhelming. I suggest at the minimum following the core four:
+- Create long passwords of at least 15 characters a special symbol and a number. These passwords should be unique for every account and stored in a [Password Manager](https://bitwarden.com/about).
+- Use MFA everywhere possible and if you can use an authenticator application as SMS and Email codes can be intercepted and spoofed.
+- Update devices regularly.
+- Recognize Phishing attempts and report them.
+Stay safe out there on the web and feel free to give me some feedback on Mastodon [@xenenon@infosec.exchange](https://infosec.exchange/@xenenon)
