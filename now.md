@@ -52,6 +52,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - The Wheel of Time
 - Mythic Quest
 - Star Wars the Clone Wars
+- Prime Target
 
 # Playing
 
