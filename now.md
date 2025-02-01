@@ -14,6 +14,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 - Wool
 - Legal and Privacy Issues in Information Security
+- The 7 Habits of Highly Effective People
 
 # Learning
 
@@ -29,6 +30,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Odesza 
 - TOOL
 - Bon Iver
+- Dad Rock
 
 ### Podcasts
 
@@ -48,5 +50,10 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Severance S2
 - Anthony Bourdaines No Reservations
 - The Wheel of Time
-- The Legend of Vox Machina
+- Mythic Quest
+- Star Wars the Clone Wars
 
+# Playing
+
+- Stardew Valley
+- Baldurs Gate 3
