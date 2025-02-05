@@ -18,10 +18,10 @@ Digital Defense is structured into multiple categories, each with its own checkl
 - Social Media: Minimize risks from social accounts
 - Networks: Protect network traffic
 - Mobile Devices: Reduce tracking on devices like phones and tablets
-- Personal Computers: Secure PC's from tracking and data collection
+- Personal Computers: Secure PCs from tracking and data collection
 - Smart Home: Secure IoT devices and reduce privacy risks
 - Personal Finance: Protecting financial accounts
-- Human Aspect: Safegurading from social-engineering
+- Human Aspect: Safeguarding from social-engineering
 - Physical Security: Preventive IRL methods
 
 Each checklist is further divided into three priority levels: Basic, Optional, and Advanced. This allows users to assess their personal threat level and apply security measures accordingly, while also seeing recommendations for more advanced protection. Additionally, users can choose to ignore specific suggestions, and a progress bar tracks the percentage of completed tasks within each category. Remember this is just a guide and you only have to do the steps you are comfortable with or feel are necessary.
@@ -36,7 +36,7 @@ As you can see I have completed 85 out of the 255 items in the guide.
 
 Data privacy and security can be done with a couple simple actions if this checklist is too overwhelming. I suggest at the minimum following the core four:
 - Create long passwords of at least 15 characters a special symbol and a number. These passwords should be unique for every account and stored in a [Password Manager](https://bitwarden.com/about).
-- Use MFA everywhere possible and if you can use an authenticator application as SMS and Email codes can be intercepted and spoofed.
+- Use Multifactor Authentication (MFA) everywhere possible and if you can use an authenticator application as SMS and Email codes can be intercepted and spoofed.
 - Update devices regularly.
 - Recognize Phishing attempts and report them.
 
