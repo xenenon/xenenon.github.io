@@ -9,10 +9,12 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 - This website
 - Parenting
+- Completing my Degree
+- Python Projects
 
 # Reading
 
-- Wool
+- Dune
 - Legal and Privacy Issues in Information Security
 - The 7 Habits of Highly Effective People
 
