@@ -9,8 +9,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 - This website
 - Parenting
-- Completing my Degree
-- Python Projects
+- Myself
 
 # Reading
 
@@ -27,12 +26,14 @@ A /now page showcases what you are currently doing, reading, listening, learning
 # Listening to
 
 - Mac Miller
-- Rio Da Yung Og
 - My Morning Jacket
 - Odesza 
 - TOOL
 - Bon Iver
+- James and the Cold Gun
+- Fontaines D.C.
 - Dad Rock
+- Babyface Ray
 
 ### Podcasts
 
@@ -45,7 +46,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Click Here
 - The Vergecast
 - Decoder
-- Talking about Infosec News with BHIS
+- Talking About [Infosec] News, Powered by Black Hills Information Security
 
 # Watching
 
