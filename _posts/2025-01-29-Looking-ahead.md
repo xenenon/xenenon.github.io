@@ -14,11 +14,6 @@ I wanted to state some sort of a plan for my site this year and give myself some
 - Maintain my GPA in School
 - Start Hacking the Box
 - Work on my overall fitness and health more including diet
-- Be the best father I can be 
+- Be the best father I can be
 - Read at least 25 books by the end of the year
-- Work on interesting python coding projects
-
-
-
-
-
+- Work on interesting python coding project
