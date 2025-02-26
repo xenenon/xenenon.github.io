@@ -14,7 +14,6 @@ A /now page showcases what you are currently doing, reading, listening, learning
 # Reading
 
 - Dune
-- Legal and Privacy Issues in Information Security
 - The 7 Habits of Highly Effective People
 
 # Learning
@@ -27,7 +26,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 - Mac Miller
 - My Morning Jacket
-- Odesza 
+- Odesza
 - TOOL
 - Bon Iver
 - James and the Cold Gun
@@ -35,9 +34,10 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Dad Rock
 - Babyface Ray
 
-### Podcasts
+# Podcasts
 
 - Acquired
+- ACQ2
 - 404 Media Podcast
 - Founders
 - The Cult Cast
@@ -45,8 +45,21 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Invest Like the Best
 - Click Here
 - The Vergecast
-- Decoder
+- Decoder with Nilay Patel
 - Talking About [Infosec] News, Powered by Black Hills Information Security
+- The Tim Ferris Show
+- SANS Internet Stormcenter Daily Cyber Security Podcast
+- Dissect
+- Open Source Security
+- Denfensive Security Podcast
+- Uncanny Valley
+- Darknet Diaries
+- The Telepathy Tapes
+- Crucible Moments
+- The Shellsharks Podcast
+- Gamecraft
+- Hacker History Podcast
+- Blueprint: Build the Best in Cyber Defense
 
 # Watching
 
@@ -56,6 +69,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Mythic Quest
 - Star Wars the Clone Wars
 - Prime Target
+- The Imagineering Story
 
 # Playing
 
