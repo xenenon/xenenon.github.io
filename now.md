@@ -15,6 +15,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 - Dune
 - The 7 Habits of Highly Effective People
+- Who is Michael Ovitz?
 
 # Learning
 
