@@ -15,7 +15,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 - Dune
 - The 7 Habits of Highly Effective People
-
+- Who is Michael Ovitz?
 # Learning
 
 - Network +
@@ -57,9 +57,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - The Telepathy Tapes
 - Crucible Moments
 - The Shellsharks Podcast
-- Gamecraft
-- Hacker History Podcast
-- Blueprint: Build the Best in Cyber Defense
+
 
 # Watching
 
