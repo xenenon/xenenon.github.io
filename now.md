@@ -16,6 +16,10 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Dune
 - The 7 Habits of Highly Effective People
 - Who is Michael Ovitz?
+<<<<<<< HEAD
+=======
+
+>>>>>>> caa71d49dd3a3786e27d8b3c4c8e608b5f30d0f3
 # Learning
 
 - Network +
