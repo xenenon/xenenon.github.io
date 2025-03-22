@@ -13,7 +13,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 # Reading
 
-- Dune
+- Dune Messiah 
 - The 7 Habits of Highly Effective People
 - Who is Michael Ovitz?
 
@@ -34,6 +34,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Fontaines D.C.
 - Dad Rock
 - Babyface Ray
+- Slipknot
 
 # Podcasts
 
@@ -61,13 +62,10 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 # Watching
 
-- Severance S2
-- Anthony Bourdaines No Reservations
 - The Wheel of Time
-- Mythic Quest
 - Star Wars the Clone Wars
-- Prime Target
 - The Imagineering Story
+- Dope Thief
 
 # Playing
 
