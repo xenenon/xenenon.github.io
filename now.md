@@ -10,6 +10,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - This website
 - Parenting
 - Myself
+- Building a meditation habit
 
 # Reading
 
@@ -51,13 +52,10 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Talking About [Infosec] News, Powered by Black Hills Information Security
 - The Tim Ferris Show
 - SANS Internet Stormcenter Daily Cyber Security Podcast
-- Dissect
 - Open Source Security
 - Denfensive Security Podcast
-- Uncanny Valley
 - Darknet Diaries
 - The Telepathy Tapes
-- Crucible Moments
 - The Shellsharks Podcast
 
 # Watching
@@ -66,6 +64,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Star Wars the Clone Wars
 - The Imagineering Story
 - Dope Thief
+- The Studio
 
 # Playing
 
