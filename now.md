@@ -10,13 +10,11 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - This website
 - Parenting
 - Myself
-- Building a meditation habit
 
 # Reading
 
 - Dune Messiah 
 - The 7 Habits of Highly Effective People
-- Who is Michael Ovitz?
 
 # Learning
 
@@ -26,14 +24,13 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 # Listening to
 
-- Mac Miller
+- Vial
 - My Morning Jacket
 - Odesza
 - TOOL
 - Bon Iver
 - James and the Cold Gun
 - Fontaines D.C.
-- Dad Rock
 - Babyface Ray
 - Slipknot
 
@@ -58,9 +55,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 # Watching
 
-- The Wheel of Time
-- Star Wars the Clone Wars
-- The Imagineering Story
+- Your Friends & Neighbors
 - Dope Thief
 - The Studio
 - Anthony Bourdains Reservations Unknown
