@@ -42,7 +42,6 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Founders
 - The Cult Cast
 - Smartless
-- Invest Like the Best
 - Click Here
 - The Vergecast
 - Decoder with Nilay Patel
@@ -58,7 +57,6 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Your Friends & Neighbors
 - Dope Thief
 - The Studio
-- Anthony Bourdains Reservations Unknown
 
 # Playing
 
