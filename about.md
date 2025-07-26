@@ -12,7 +12,7 @@ My name is Jeremy Palmer and I am a cybersecurity undergrad. I am half way done 
 
 # $nslookup
 These are my main socials. Come connect with me!
-- Email [jeremyadampalmer@gmail.com](mailto:jeremyadampalmer@gmail.com)
+- Email [jeremy@jeremyadampalmer.com](mailto:jeremy@jeremyadampalmer.com)
 - LinkedIn [Jeremy Palmer](https://www.linkedin.com/in/jeremyadampalmer/){:rel="me"}
 - BlueSky [@xenenon.bsky.social](https://bsky.app/profile/xenenon.bsky.social){:rel="me"}
 - Mastodon [@xenenon@infosec.exhange](https://infosec.exchange/@xenenon){:rel="me"}
