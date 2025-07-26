@@ -13,9 +13,8 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 # Reading
 
-- Dune
+- Thinking Fast and Slow
 - The 7 Habits of Highly Effective People
-- Who is Michael Ovitz?
 
 # Learning
 
@@ -25,15 +24,10 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 # Listening to
 
-- Mac Miller
-- My Morning Jacket
-- Odesza
-- TOOL
-- Bon Iver
-- James and the Cold Gun
-- Fontaines D.C.
-- Dad Rock
-- Babyface Ray
+- MCR
+- Vended
+- Tyler Childers
+- Rent Strike
 
 # Podcasts
 
@@ -50,10 +44,6 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Talking About [Infosec] News, Powered by Black Hills Information Security
 - The Tim Ferris Show
 - SANS Internet Stormcenter Daily Cyber Security Podcast
-- Dissect
-- Open Source Security
-- Denfensive Security Podcast
-- Uncanny Valley
 - Darknet Diaries
 - The Telepathy Tapes
 - Crucible Moments
@@ -61,15 +51,12 @@ A /now page showcases what you are currently doing, reading, listening, learning
 
 # Watching
 
-- Severance S2
-- Anthony Bourdaines No Reservations
-- The Wheel of Time
-- Mythic Quest
-- Star Wars the Clone Wars
-- Prime Target
-- The Imagineering Story
+- Anthony Bourdain Parts Unknown
+- South Park
+- Foundation
 
 # Playing
 
 - Stardew Valley
 - Baldurs Gate 3
+- FF1
