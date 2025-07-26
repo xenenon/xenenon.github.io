@@ -28,9 +28,6 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Rent Strike
 - Vended
 - Tyler Childers
-- Bon Iver
-- Fontaines D.C.
-- Babyface Ray
 - Vial
 
 # Podcasts
@@ -40,7 +37,6 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - 404 Media Podcast
 - Founders
 - The Cult Cast
-- Smartless
 - Click Here
 - The Vergecast
 - Decoder with Nilay Patel
@@ -56,7 +52,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Foundation
 - Anthony Bourdain Parts Unknown
 - South Park
-- Star Wars the Clone Wars
+- The Pitt
 
 # Playing
 
