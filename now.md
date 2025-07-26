@@ -25,9 +25,13 @@ A /now page showcases what you are currently doing, reading, listening, learning
 # Listening to
 
 - MCR
+- Rent Strike
 - Vended
 - Tyler Childers
-- Rent Strike
+- Bon Iver
+- Fontaines D.C.
+- Babyface Ray
+- Vial
 
 # Podcasts
 
@@ -37,7 +41,6 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Founders
 - The Cult Cast
 - Smartless
-- Invest Like the Best
 - Click Here
 - The Vergecast
 - Decoder with Nilay Patel
@@ -46,14 +49,14 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - SANS Internet Stormcenter Daily Cyber Security Podcast
 - Darknet Diaries
 - The Telepathy Tapes
-- Crucible Moments
 - The Shellsharks Podcast
 
 # Watching
 
+- Foundation
 - Anthony Bourdain Parts Unknown
 - South Park
-- Foundation
+- Star Wars the Clone Wars
 
 # Playing
 
