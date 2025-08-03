@@ -42,7 +42,6 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Decoder with Nilay Patel
 - Talking About [Infosec] News, Powered by Black Hills Information Security
 - The Tim Ferris Show
-- SANS Internet Stormcenter Daily Cyber Security Podcast
 - Darknet Diaries
 - The Telepathy Tapes
 - The Shellsharks Podcast
@@ -53,6 +52,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Anthony Bourdain Parts Unknown
 - South Park
 - The Pitt
+- The Bear
 
 # Playing
 
