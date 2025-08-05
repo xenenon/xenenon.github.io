@@ -53,6 +53,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - South Park
 - The Pitt
 - The Bear
+- King of the Hill
 
 # Playing
 
