@@ -37,7 +37,6 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - 404 Media Podcast
 - Founders
 - The Cult Cast
-- Click Here
 - The Vergecast
 - Decoder with Nilay Patel
 - Talking About [Infosec] News, Powered by Black Hills Information Security
@@ -51,9 +50,7 @@ A /now page showcases what you are currently doing, reading, listening, learning
 - Foundation
 - Anthony Bourdain Parts Unknown
 - South Park
-- The Pitt
 - The Bear
-- King of the Hill
 
 # Playing
 
